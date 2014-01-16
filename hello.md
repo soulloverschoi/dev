@@ -4,6 +4,6 @@
 
 팀 : 티켓서비스운영팀
 
-Github ID : 
+Github ID : soulloverschoi
 
 E-mail : 
